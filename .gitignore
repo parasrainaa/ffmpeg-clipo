@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+virtualenv/
+Virtualenv/
+
+# Project specific
+downloads/
+outputs/
+
+# IDEs/Editors
+.idea/
+.vscode/
+*.swp

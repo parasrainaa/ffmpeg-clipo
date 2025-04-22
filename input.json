@@ -1,0 +1,11 @@
+{
+  "video_url": "https://download.samplelib.com/mp4/sample-5s.mp4",
+  "subtitle_url": "https://raw.githubusercontent.com/demuxed/big-buck-captions/main/big-buck-bunny.srt",
+  "render_config": {
+    "template_id": "template_2",
+    "subtitle_style": "bold_white_box",
+    "crop_mode": "center_crop",
+    "zoom_effect": true,
+    "output_format": "mp4"
+  }
+} 
